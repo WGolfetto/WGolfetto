@@ -5,7 +5,7 @@
 ## ⭐️ Sobre mim
 
 
-Sou um entusiasta de tecnologia com experiência em suporte técnico e um forte desejo de aprender na área de desenvolvimento de software. Possuo habilidades aguçadas para resolver problemas e uma comunicação eficaz, além de uma abordagem colaborativa no trabalho em equipe. No momento estou buscando fazer a transição para o desenvolvimento back-end e procuro uma oportunidade de estágio remoto onde posso aprimorar minha experiência para entender as necessidades dos usuários e transformá-las em soluções de software eficazes.
+Sou um entusiasta de tecnologia com experiência em suporte técnico e um forte desejo de aprender na área de desenvolvimento de software. Possuo habilidades aguçadas para resolver problemas e uma comunicação eficaz, além de uma abordagem colaborativa no trabalho em equipe. No momento estou buscando fazer a transição para o desenvolvimento de software e procuro uma oportunidade de estágio remoto onde posso aprimorar minha experiência para entender as necessidades dos usuários e transformá-las em soluções de software eficazes.
 
  
 - 📖 Estudando análise e desenvolvimento de sistemas (UNOPAR)
