@@ -10,7 +10,7 @@ Sou um entusiasta de tecnologia com experiência em suporte técnico e um forte 
  
 - 📖 Estudando análise e desenvolvimento de sistemas (UNOPAR)
 - 💬 Desenvolvedor Back-end e analista de dados
-- 📫 Morando em Chapecó - SC
+- 📫 Residindo em Chapecó - SC
 
 
   ## Contato
